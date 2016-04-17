@@ -1,0 +1,13 @@
+module Sddm
+
+Background      0.1 Background.qml
+Button          0.1 Button.qml
+Clock           0.1 Clock.qml
+ComboBox        0.1 ComboBox.qml
+ImageButton     0.1 ImageButton.qml
+LayoutBox       0.1 LayoutBox.qml
+Menu            0.1 Menu.qml
+PasswordBox     0.1 PasswordBox.qml
+PictureBox      0.1 PictureBox.qml
+TextBox         0.1 TextBox.qml
+TextConstants   0.1 TextConstants.qml
