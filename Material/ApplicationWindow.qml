@@ -87,7 +87,7 @@ Controls.ApplicationWindow {
         window: app
     }
 
-    property int margin: 1
+    property int margin: 0
     PageStack {
         id: __pageStack
         anchors {
